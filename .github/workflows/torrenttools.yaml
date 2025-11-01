@@ -47,7 +47,7 @@ jobs:
           remove-docker-images: true
           
       - name: Setup torrenttools
-        uses: AnimMouse/setup-appimage@v1
+        uses: AnimMouse/setup-appimage@v2
         with:
           name: torrenttools
           url: https://github.com/fbdtemme/torrenttools/releases/download/v0.6.2/torrenttools-0.6.2-linux-x86_64.AppImage
